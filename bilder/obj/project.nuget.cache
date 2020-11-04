@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uT85bHQmKBlNB1j4JVfNR7BqPL0P0Eyv+DHhM6JIkqzj0uq5WMLFbeuQ0u8VKKX9jBIKc1RIfCGL2AG3hzGavw==",
+  "success": true,
+  "projectFilePath": "C:\\PRogrammering\\bilder\\bilder\\bilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyra.ekstrand\\.nuget\\packages\\raylib-cs\\3.1.5\\raylib-cs.3.1.5.nupkg.sha512",
+    "C:\\Users\\tyra.ekstrand\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
