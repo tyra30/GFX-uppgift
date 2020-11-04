@@ -32,9 +32,9 @@ namespace bilder
 
                     Raylib.BeginDrawing();
                     Raylib.ClearBackground(Color.BLUE);
-                    Raylib.DrawRectangle(300, 300, 200, 100, Color.PINK);
+                    Raylib.DrawRectangle(300, 300, 200, 100, Color.DARKBLUE);
                     Raylib.DrawText("PLAY", 310, 330, 70, Color.PURPLE);
-                    Raylib.DrawText("Press E to begin", 280, 430, 30, Color.DARKBLUE);
+                    Raylib.DrawText("Press E to begin", 280, 430, 30, Color.BLACK);
                     Raylib.EndDrawing();
                 }
 
